@@ -1,0 +1,19 @@
+#intro {
+    background: url(/images/css/anthony-delanoix-hzgs56Ze49s-unsplash.jpg);
+    height: 100vh;
+    background-size: cover;
+}
+
+#navBilleterie {
+    background-color: #0a53be;
+}
+
+@media (max-width: 600px) {
+    #btnCarNext {
+        visibility: hidden;
+    }
+    #btnCarPrev {
+        visibility: hidden;
+    }
+}
+
