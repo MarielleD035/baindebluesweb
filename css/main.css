@@ -8,7 +8,7 @@
     background-color: #0a53be;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 620px) {
     #btnCarNext {
         visibility: hidden;
     }
@@ -17,3 +17,6 @@
     }
 }
 
+.caractus {
+    height: 25vh;
+}
